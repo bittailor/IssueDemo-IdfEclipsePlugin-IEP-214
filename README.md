@@ -1,0 +1,1 @@
+A [esp-idf](https://github.com/espressif/esp-idf) demo project to reproduce the [issue #107 (IEP-214)](https://github.com/espressif/idf-eclipse-plugin/issues/107) of [espressif/idf-eclipse-plugin](https://github.com/espressif/idf-eclipse-plugin).
